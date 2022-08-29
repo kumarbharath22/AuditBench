@@ -1,0 +1,20 @@
+
+{
+    "region" : "ap-south-1",
+    "configuration" : "Debug",
+    "framework"     : "netcoreapp3.1",
+    "self-contained" : false,
+    "application"    : "AuditBenchmarkModule",
+    "environment"    : "AuditBenchmarkModule-dev",
+    "enable-xray"    : false,
+    "enhanced-health-type" : "basic",
+    "additional-options"   : "\"aws:autoscaling:launchconfiguration,SecurityGroups\"=\"sg-0e063083c78e9c02d\";\"aws:ec2:vpc,Subnets\"=\"subnet-00f5d5625a740eee0\"",
+    "solution-stack"       : "64bit Amazon Linux 2 v2.3.3 running .NET Core",
+    "environment-type"     : "SingleInstance",
+    "cname"                : "auditbenchmarkmodule-dev1",
+    "instance-type"        : "t3a.medium",
+    "key-pair"             : "keypair123",
+    "instance-profile"     : "aws-elasticbeanstalk-ec2-role",
+    "service-role"         : "AWS02-RecipeBeanstalkServiceRole62B7EC28-VNAE368WHC5B",
+    "proxy-server"         : "nginx"
+}

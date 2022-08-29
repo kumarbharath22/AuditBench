@@ -1,0 +1,814 @@
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.exe
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.deps.json
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.json
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.dev.json
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.AssemblyReference.cache
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfoInputs.cache
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfo.cs
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CoreCompileInputs.cache
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\staticwebassets\AuditBenchmarkModule.StaticWebAssets.Manifest.cache
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.RazorTargetAssemblyInfo.cache
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CopyComplete
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.genruntimeconfig.cache
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.exe
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.deps.json
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.json
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.dev.json
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.AssemblyReference.cache
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfoInputs.cache
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfo.cs
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CoreCompileInputs.cache
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\staticwebassets\AuditBenchmarkModule.StaticWebAssets.Manifest.cache
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.RazorTargetAssemblyInfo.cache
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CopyComplete
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.genruntimeconfig.cache
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.config
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.exe
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.deps.json
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.json
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.dev.json
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Moq.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.AssemblyReference.cache
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfoInputs.cache
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfo.cs
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CoreCompileInputs.cache
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cs
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cache
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\staticwebassets\AuditBenchmarkModule.StaticWebAssets.Manifest.cache
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.RazorTargetAssemblyInfo.cache
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CopyComplete
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.genruntimeconfig.cache
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.exe
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.deps.json
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.json
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.dev.json
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.AssemblyReference.cache
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfoInputs.cache
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfo.cs
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CoreCompileInputs.cache
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\staticwebassets\AuditBenchmarkModule.StaticWebAssets.Manifest.cache
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.RazorTargetAssemblyInfo.cache
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CopyComplete
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.genruntimeconfig.cache
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.config
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.exe
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.deps.json
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.json
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.dev.json
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Moq.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.AssemblyReference.cache
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfoInputs.cache
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfo.cs
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CoreCompileInputs.cache
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cs
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cache
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\staticwebassets\AuditBenchmarkModule.StaticWebAssets.Manifest.cache
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.RazorTargetAssemblyInfo.cache
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CopyComplete
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\sampleMFPE\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.genruntimeconfig.cache
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.config
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.exe
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.deps.json
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.json
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.dev.json
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Moq.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.AssemblyReference.cache
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfoInputs.cache
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfo.cs
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CoreCompileInputs.cache
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cs
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cache
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\staticwebassets\AuditBenchmarkModule.StaticWebAssets.Manifest.cache
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.RazorTargetAssemblyInfo.cache
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CopyComplete
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.genruntimeconfig.cache
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\sample\share\share\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.config
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.exe
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.deps.json
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.json
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.dev.json
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Moq.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.AssemblyReference.cache
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfoInputs.cache
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfo.cs
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CoreCompileInputs.cache
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cs
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cache
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\staticwebassets\AuditBenchmarkModule.StaticWebAssets.Manifest.cache
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.RazorTargetAssemblyInfo.cache
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CopyComplete
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\MFPE\AuditBenchmarkModule-updated\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.genruntimeconfig.cache
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.config
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.exe
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.deps.json
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.json
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.dev.json
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Moq.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.AssemblyReference.cache
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfoInputs.cache
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfo.cs
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CoreCompileInputs.cache
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cs
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cache
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\staticwebassets\AuditBenchmarkModule.StaticWebAssets.Manifest.cache
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.RazorTargetAssemblyInfo.cache
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CopyComplete
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\MFPE\AuditBenchmarkModule-updated - basecode\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.genruntimeconfig.cache
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.AssemblyReference.cache
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfoInputs.cache
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfo.cs
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CoreCompileInputs.cache
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cs
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cache
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.config
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.exe
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.deps.json
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.json
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.dev.json
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Moq.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\staticwebassets\AuditBenchmarkModule.StaticWebAssets.Manifest.cache
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.RazorTargetAssemblyInfo.cache
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CopyComplete
+C:\MFPE\AuditBenchmarkcopyupdated - basecode - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.genruntimeconfig.cache
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.AssemblyReference.cache
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfoInputs.cache
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfo.cs
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CoreCompileInputs.cache
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cs
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cache
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\testhost.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.config
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\testhost.exe
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.exe
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.deps.json
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.json
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.dev.json
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\staticwebassets\AuditBenchmarkModule.StaticWebAssets.Manifest.cache
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.RazorTargetAssemblyInfo.cache
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CopyComplete
+C:\successfulrun\AuditBenchmarkcopyupdated - basecode - Copy - Copy - Copy\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.genruntimeconfig.cache
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\testhost.exe
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\testhost.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.config
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.exe
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.deps.json
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.json
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.dev.json
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.AssemblyReference.cache
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfoInputs.cache
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfo.cs
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CoreCompileInputs.cache
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cs
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cache
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\staticwebassets\AuditBenchmarkModule.StaticWebAssets.Manifest.cache
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.RazorTargetAssemblyInfo.cache
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CopyComplete
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\successfulrun\AuditBenchmarkupdatedtesting\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.genruntimeconfig.cache

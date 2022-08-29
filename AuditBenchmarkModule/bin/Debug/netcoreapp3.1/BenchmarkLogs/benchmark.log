@@ -1,0 +1,80 @@
+INFO  10:42:58 Application started. Press Ctrl+C to shut down.
+INFO  10:42:58 Application started. Press Ctrl+C to shut down.
+INFO  10:42:58 Hosting environment: Development
+INFO  10:42:58 Hosting environment: Development
+INFO  10:42:58 Content root path: C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule
+INFO  10:42:58 Content root path: C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule
+INFO  10:42:58  Http GET request AuditBenchmarkController
+INFO  10:42:58  Http GET request BenchmarkProvider
+INFO  10:42:58  Http GET request BenchmarkRepo
+INFO  10:54:35 Application started. Press Ctrl+C to shut down.
+INFO  10:54:35 Application started. Press Ctrl+C to shut down.
+INFO  10:54:35 Hosting environment: Development
+INFO  10:54:35 Hosting environment: Development
+INFO  10:54:35 Content root path: C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule
+INFO  10:54:35 Content root path: C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule
+INFO  10:54:35  Http GET request AuditBenchmarkController
+INFO  10:54:35  Http GET request BenchmarkProvider
+INFO  10:54:35  Http GET request BenchmarkRepo
+INFO  11:04:08 Application started. Press Ctrl+C to shut down.
+INFO  11:04:08 Application started. Press Ctrl+C to shut down.
+INFO  11:04:08 Hosting environment: Development
+INFO  11:04:08 Hosting environment: Development
+INFO  11:04:09 Content root path: C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule
+INFO  11:04:09 Content root path: C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditBenchmarkModule\AuditBenchmarkModule
+INFO  11:04:09  Http GET request AuditBenchmarkController
+INFO  11:04:09  Http GET request BenchmarkProvider
+INFO  11:04:09  Http GET request BenchmarkRepo
+INFO  04:39:48 Now listening on: https://localhost:5001
+INFO  04:39:49 Now listening on: https://localhost:5001
+INFO  04:39:49 Now listening on: http://localhost:5000
+INFO  04:39:49 Now listening on: http://localhost:5000
+INFO  04:39:49 Application started. Press Ctrl+C to shut down.
+INFO  04:39:49 Application started. Press Ctrl+C to shut down.
+INFO  04:39:49 Hosting environment: Development
+INFO  04:39:49 Hosting environment: Development
+INFO  04:39:49 Content root path: C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule
+INFO  04:39:49 Content root path: C:\Users\2155825\Downloads\NE\NE\AuditBenchmarkModule\AuditBenchmarkModule
+INFO  04:39:51  Http GET request AuditBenchmarkController
+INFO  04:39:51  Http GET request BenchmarkProvider
+INFO  04:39:51  Http GET request BenchmarkRepo
+INFO  12:36:46 Now listening on: https://localhost:5001
+INFO  12:36:46 Now listening on: https://localhost:5001
+INFO  12:36:46 Now listening on: http://localhost:5000
+INFO  12:36:46 Now listening on: http://localhost:5000
+INFO  12:36:46 Application started. Press Ctrl+C to shut down.
+INFO  12:36:46 Application started. Press Ctrl+C to shut down.
+INFO  12:36:46 Hosting environment: Development
+INFO  12:36:46 Hosting environment: Development
+INFO  12:36:47 Content root path: C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule
+INFO  12:36:47 Content root path: C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule
+INFO  12:36:48  Http GET request AuditBenchmarkController
+INFO  12:36:48  Http GET request BenchmarkProvider
+INFO  12:36:48  Http GET request BenchmarkRepo
+INFO  12:37:10 Application started. Press Ctrl+C to shut down.
+INFO  12:37:10 Application started. Press Ctrl+C to shut down.
+INFO  12:37:10 Hosting environment: Development
+INFO  12:37:10 Hosting environment: Development
+INFO  12:37:10 Content root path: C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule
+INFO  12:37:10 Content root path: C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule
+INFO  12:37:18  Http GET request AuditBenchmarkController
+INFO  12:37:18  Http GET request BenchmarkProvider
+INFO  12:37:18  Http GET request BenchmarkRepo
+INFO  12:48:50  Http GET request AuditBenchmarkController
+INFO  12:48:50  Http GET request BenchmarkProvider
+INFO  12:48:50  Http GET request BenchmarkRepo
+INFO  12:59:16  Http GET request AuditBenchmarkController
+INFO  12:59:16  Http GET request BenchmarkProvider
+INFO  12:59:16  Http GET request BenchmarkRepo
+INFO  12:59:28  Http GET request AuditBenchmarkController
+INFO  12:59:28  Http GET request BenchmarkProvider
+INFO  12:59:28  Http GET request BenchmarkRepo
+INFO  01:46:56 Application started. Press Ctrl+C to shut down.
+INFO  01:46:56 Application started. Press Ctrl+C to shut down.
+INFO  01:46:56 Hosting environment: Development
+INFO  01:46:56 Hosting environment: Development
+INFO  01:46:56 Content root path: C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule
+INFO  01:46:56 Content root path: C:\vendhan\FinalModule\AuditBenchmarkModule\AuditBenchmarkModule
+INFO  01:58:03  Http GET request AuditBenchmarkController
+INFO  01:58:03  Http GET request BenchmarkProvider
+INFO  01:58:03  Http GET request BenchmarkRepo
